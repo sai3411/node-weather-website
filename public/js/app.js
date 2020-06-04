@@ -1,5 +1,3 @@
-console.log("Client side Javascript")
-
 const weather_form = document.querySelector('form')
 const search = document.querySelector('input')
 const msg1 = document.querySelector('#msg1')
